@@ -1,5 +1,3 @@
-
-
 let mongoose = require('mongoose');
 
 // create a model class
