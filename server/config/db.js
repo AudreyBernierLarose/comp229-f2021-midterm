@@ -7,5 +7,5 @@ Web App Name: Favourite Book List
 
 module.exports = {
   //local MongoDB deployment ->
-  "URI": "mongodb://localhost/books229"
+  "URI": "mongodb+srv://audrey:bx1ssuLir4RsymM7@mongodbserver.cvgle.mongodb.net/books229?retryWrites=true&w=majority"
 };

@@ -1,5 +1,5 @@
 {
-  "name": "comp229-f2020-midterm",
+  "name": "comp229-f2021-midterm",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -45,17 +45,17 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/AudreyBernierLarose/comp229-f2021-midterm.git"
   },
   "keywords": [
     "NodeJS",
     "ExpressJS",
     "EJS"
   ],
-  "author": "Your Name Goes Here",
+  "author": "Audrey Bernier Larose",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/AudreyBernierLarose/comp229-f2021-midterm/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/AudreyBernierLarose/comp229-f2021-midterm#readme"
 }
